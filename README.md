@@ -8,4 +8,5 @@ The four side pieces connect via hooks and holes on their edges,
 and these four pieces then slide into the bottom piece.
 The file "construction-directions" contains visual instructions for putting together the 5 piece open field box.
 This design was made to be cut from acrylic, but can be altered for any other material provided tolerance is taken into account.
+Please see the files "completed-box" 1 and 2 for photos of our clear acrylic box put together.
 Happy roaming!
